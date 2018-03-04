@@ -15,7 +15,7 @@
 package thiagodnf.javautils.core;
 
 /**
- * This class is responsible for return the operational system used by the
+ * This class is responsible for returning the operational system used by the
  * application. It is based on <a href=
  * "http://www.mkyong.com/java/how-to-detect-os-in-java-systemgetpropertyosname/">
  * http://www.mkyong.com/java/how-to-detect-os-in-java-systemgetpropertyosname/</a>
