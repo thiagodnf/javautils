@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/thiagodnf/javautils/master/src/main/resources/logo.png"/>
+<img class="screenshot" src="https://raw.githubusercontent.com/thiagodnf/javautils/master/src/main/resources/logo.png"/>
 
 Utility classes for java programs
 
