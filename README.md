@@ -1,4 +1,5 @@
-<img class="screenshot" src="https://raw.githubusercontent.com/thiagodnf/javautils/master/src/main/resources/logo.png"/>
+<img class="screenshot" src="https://user-images.githubusercontent.com/114015/206912752-c05b4110-1588-40e4-b32f-6d4c3dfcc6fe.png"/>
+
 
 Utility classes for java programs
 
